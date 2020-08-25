@@ -1,0 +1,1 @@
+web: gunicorn lotfi_list.wsgi
